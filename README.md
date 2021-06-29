@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on WordPress, PHP, React and Next.js
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently learning Node.js
 - 🤔 I’m looking for help with CSS3
 - ⚡ Fun fact: Rock in Rio 🎸 , Campus Party 💻 , Travel ✈️
 
