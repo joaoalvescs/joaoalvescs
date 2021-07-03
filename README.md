@@ -1,4 +1,4 @@
-### Hello guys, on this profile, you know more about me ❗
+### Hello guys, on this profile you know more about me ❗
 
 <!--
 **joaoalvescs/joaoalvescs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
