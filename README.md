@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 ## Most commonly used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvescs&layout=compact)](https://github.com/IgorTerriaga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvescs&layout=compact)](https://github.com/joaoalvescs/github-readme-stats)
 
 
 
